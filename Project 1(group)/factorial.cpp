@@ -35,4 +35,11 @@ int main() {
     cout << "Factorial of " << num << " using do-while loop is: " << factorial << endl;
 
     return 0;
+/* GROUP MEMBERS LIST
+
+1. Singitan Assefa   0768/14
+2. Esubalew Wolde    4634/14
+3. Elias zeleke      1681/14
+4. Bedilu Getachew   4665/14
+*/
 }
