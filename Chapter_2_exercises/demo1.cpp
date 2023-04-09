@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-  /* Exercise 1 from Chapter 2
+  /* question from chapter 2
   Write a statement (or comment) to accomplish each of the following: */
   
   /* a) State that a program calculates the product of three integers.*/
